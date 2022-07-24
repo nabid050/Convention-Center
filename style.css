@@ -1,0 +1,44 @@
+.link-btn{
+    display: inline-block;
+    margin-top: 15px;
+}
+.icn{
+    font-size: 20px;
+}
+.plan-btn{
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 15px;
+    color: #3F87F5;
+    font-size: 18px;
+}
+.pack-header{
+    margin-bottom: 50px;
+}
+.package{
+    margin: 20px;
+}
+.exeptional{
+    color: white;
+    background-color: #3F87F5;
+    padding: 15px;
+    border-radius: 15px;
+}
+.plan-btn-2{
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 18px;
+    background-color: white;
+    color: #3F87F5;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+.cln-hdr{
+    margin-top: 50px;
+}
+.reviews{
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 10px;
+}
